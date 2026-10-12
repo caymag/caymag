@@ -79,7 +79,3 @@ Howdy, I'm Cayden. I'm co-founder and engineer at **Chaser by WNDR**, a rewards 
     <img src="assets/footer.svg" alt="Last call. Thanks for stopping by." width="100%">
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=caymag&label=Check-ins&color=202D5D&style=flat-square" alt="Profile check-ins">
-</p>
