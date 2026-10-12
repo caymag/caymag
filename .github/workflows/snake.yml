@@ -1,0 +1,27 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#F2A93B&color_dots=#2A3A75,#5B4F61,#8A6A4F,#C48A3E,#F2A93B
+      # snk only paints a background for gifs, so add the navy card behind the svg
+      - run: sed 's/<svg viewBox="\([-0-9.]*\) \([-0-9.]*\) \([0-9.]*\) \([0-9.]*\)"[^>]*>/&<rect x="\1" y="\2" width="\3" height="\4" rx="16" fill="#202D5D"\/>/' dist/snake.svg > assets/snake.svg
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/snake.svg
+          git diff --cached --quiet || (git commit -m "Update contribution snake" && git push)
