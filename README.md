@@ -1,16 +1,77 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://www.getchaser.app/">
+    <img src="assets/header.svg" alt="Cayden Maguire — Co-Founder, Chaser by WNDR · CS @ Texas A&M · ML Research" width="100%">
+  </a>
+</p>
 
-<!--
-**caymag/caymag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/cayden-maguire"><img src="https://img.shields.io/badge/LinkedIn-202D5D?style=for-the-badge&logo=linkedin&logoColor=F2A93B" alt="LinkedIn"></a>
+  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-202D5D?style=for-the-badge&logo=x&logoColor=F2A93B" alt="X"></a>
+  <a href="https://people.tamu.edu/~caymag/"><img src="https://img.shields.io/badge/Portfolio-202D5D?style=for-the-badge&logo=googlechrome&logoColor=F2A93B" alt="Portfolio"></a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_HANDLE/"><img src="https://img.shields.io/badge/LeetCode-202D5D?style=for-the-badge&logo=leetcode&logoColor=F2A93B" alt="LeetCode"></a>
+  <img src="https://img.shields.io/badge/📞_512--803--3655-F5FBFD?style=for-the-badge" alt="Phone: 512-803-3655">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🍸 Now checked in at **[Chaser](https://www.getchaser.app/)**
+
+Howdy, I'm Cayden. I'm co-founder and engineer at **Chaser by WNDR**, a rewards platform for bars, and I study CS (minor in Statistics) at **Texas A&M**.
+
+- 🥃 **Built and shipped Chaser** in TypeScript / React Native (Expo). It **grew 4× last month** to **500+ users** across **5 Texas bars**
+- 🗺️ Shipped **product redemption, bar onboarding, a friends network and check-in geofencing**
+- 🧱 Built the backend on **Supabase (PostgreSQL)**: schema design, RLS policies, triggers, and **15+ Deno Edge Functions** with cron jobs
+- 🧑‍🏫 Led **6 developers** through the Aggie Coding Club to build Chaser's **bottle-service queue**
+- 🔬 ML research at TAMU on **Gaussian-process methods for alloy discovery**. Lead author of
+  [*Good Enough is Better: Feasibility vs. Pareto-Optimality in Alloy Design*](https://pubs.rsc.org/dd/article/5/7/3010/1263213/Good-enough-is-better-feasibility-vs-Pareto) (Digital Discovery, 2026)
+  and [*Residual Driving Force Minimization…*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6865302) (presented at CALPHAD 2026)
+- ☕ Side project: **[Caffeine Critique](https://caffeine-critique-1.onrender.com)**, a Flask app that predicts my coffee ratings with a mixed Gaussian process
+
+### 🍺 On Tap
+
+**App & backend**<br>
+<img src="https://img.shields.io/badge/TypeScript-202D5D?style=flat-square&logo=typescript&logoColor=F2A93B">
+<img src="https://img.shields.io/badge/React_Native-202D5D?style=flat-square&logo=react&logoColor=F2A93B">
+<img src="https://img.shields.io/badge/Expo-202D5D?style=flat-square&logo=expo&logoColor=F2A93B">
+<img src="https://img.shields.io/badge/Supabase-202D5D?style=flat-square&logo=supabase&logoColor=F2A93B">
+<img src="https://img.shields.io/badge/PostgreSQL-202D5D?style=flat-square&logo=postgresql&logoColor=F2A93B">
+<img src="https://img.shields.io/badge/Deno-202D5D?style=flat-square&logo=deno&logoColor=F2A93B">
+<img src="https://img.shields.io/badge/AWS-202D5D?style=flat-square&logo=amazonwebservices&logoColor=F2A93B">
+
+**ML & data**<br>
+<img src="https://img.shields.io/badge/Python-5B4F61?style=flat-square&logo=python&logoColor=F8E4CF">
+<img src="https://img.shields.io/badge/PyTorch-5B4F61?style=flat-square&logo=pytorch&logoColor=F8E4CF">
+<img src="https://img.shields.io/badge/scikit--learn-5B4F61?style=flat-square&logo=scikitlearn&logoColor=F8E4CF">
+<img src="https://img.shields.io/badge/NumPy-5B4F61?style=flat-square&logo=numpy&logoColor=F8E4CF">
+<img src="https://img.shields.io/badge/Pandas-5B4F61?style=flat-square&logo=pandas&logoColor=F8E4CF">
+<img src="https://img.shields.io/badge/Flask-5B4F61?style=flat-square&logo=flask&logoColor=F8E4CF">
+
+**Also pouring**<br>
+<img src="https://img.shields.io/badge/C++-E8C49A?style=flat-square&logo=cplusplus&logoColor=202D5D">
+<img src="https://img.shields.io/badge/Java-E8C49A?style=flat-square&logo=openjdk&logoColor=202D5D">
+<img src="https://img.shields.io/badge/Haskell-E8C49A?style=flat-square&logo=haskell&logoColor=202D5D">
+<img src="https://img.shields.io/badge/JavaScript-E8C49A?style=flat-square&logo=javascript&logoColor=202D5D">
+<img src="https://img.shields.io/badge/LaTeX-E8C49A?style=flat-square&logo=latex&logoColor=202D5D">
+<img src="https://img.shields.io/badge/Git-E8C49A?style=flat-square&logo=git&logoColor=202D5D">
+
+### 🧾 Your Tab
+
+<p align="center">
+  <a href="https://www.getchaser.app/">
+    <img src="assets/chaser-stats.svg" alt="Chaser by the numbers: 4× growth last month, 500+ users, 5 Texas bars, 15+ edge functions" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=caymag&hide_border=true&background=202D5D&ring=F5FBFD&fire=F5FBFD&currStreakNum=F2A93B&currStreakLabel=F2A93B&sideNums=F8E4CF&sideLabels=E8C49A&dates=F8E4CF&stroke=5B4F61" alt="GitHub streak">
+</p>
+
+<p align="center">
+  <a href="https://www.getchaser.app/">
+    <img src="assets/footer.svg" alt="Last call. Thanks for stopping by." width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=caymag&label=Check-ins&color=202D5D&style=flat-square" alt="Profile check-ins">
+</p>
