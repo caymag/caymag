@@ -29,27 +29,30 @@ Howdy, I'm Cayden. I'm co-founder and engineer at **Chaser by WNDR**, a rewards 
 
 ### 🍺 On Tap
 
-**App & backend**
+**App & backend**<br>
+<img src="https://img.shields.io/badge/TypeScript-202D5D?style=flat-square&logo=typescript&logoColor=F2A93B">
+<img src="https://img.shields.io/badge/React_Native-202D5D?style=flat-square&logo=react&logoColor=F2A93B">
+<img src="https://img.shields.io/badge/Expo-202D5D?style=flat-square&logo=expo&logoColor=F2A93B">
+<img src="https://img.shields.io/badge/Supabase-202D5D?style=flat-square&logo=supabase&logoColor=F2A93B">
+<img src="https://img.shields.io/badge/PostgreSQL-202D5D?style=flat-square&logo=postgresql&logoColor=F2A93B">
+<img src="https://img.shields.io/badge/Deno-202D5D?style=flat-square&logo=deno&logoColor=F2A93B">
+<img src="https://img.shields.io/badge/AWS-202D5D?style=flat-square&logo=amazonwebservices&logoColor=F2A93B">
 
+**ML & data**<br>
+<img src="https://img.shields.io/badge/Python-5B4F61?style=flat-square&logo=python&logoColor=F8E4CF">
+<img src="https://img.shields.io/badge/PyTorch-5B4F61?style=flat-square&logo=pytorch&logoColor=F8E4CF">
+<img src="https://img.shields.io/badge/scikit--learn-5B4F61?style=flat-square&logo=scikitlearn&logoColor=F8E4CF">
+<img src="https://img.shields.io/badge/NumPy-5B4F61?style=flat-square&logo=numpy&logoColor=F8E4CF">
+<img src="https://img.shields.io/badge/Pandas-5B4F61?style=flat-square&logo=pandas&logoColor=F8E4CF">
+<img src="https://img.shields.io/badge/Flask-5B4F61?style=flat-square&logo=flask&logoColor=F8E4CF">
 
-
-
-
-
-
-**ML & data**
-
-
-
-
-
-
-**Also pouring**
-
-
-
-
-
+**Also pouring**<br>
+<img src="https://img.shields.io/badge/C++-E8C49A?style=flat-square&logo=cplusplus&logoColor=202D5D">
+<img src="https://img.shields.io/badge/Java-E8C49A?style=flat-square&logo=openjdk&logoColor=202D5D">
+<img src="https://img.shields.io/badge/Haskell-E8C49A?style=flat-square&logo=haskell&logoColor=202D5D">
+<img src="https://img.shields.io/badge/JavaScript-E8C49A?style=flat-square&logo=javascript&logoColor=202D5D">
+<img src="https://img.shields.io/badge/LaTeX-E8C49A?style=flat-square&logo=latex&logoColor=202D5D">
+<img src="https://img.shields.io/badge/Git-E8C49A?style=flat-square&logo=git&logoColor=202D5D">
 
 ### 🧾 Your Tab
 
